@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 984744627580a764cae3504899e4652b
+timeCreated: 1453745426
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - forceFieldShader: {fileID: 4800000, guid: ac535496ccb41e34487f32129fd77ff4, type: 3}
+  - impactSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
